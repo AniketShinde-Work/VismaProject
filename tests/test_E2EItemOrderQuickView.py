@@ -60,33 +60,6 @@ class TestE2EOrder(BaseClass):
 
 
 
-                # action = ActionChains(self.driver)
-                # action.move_to_element(product.find_element(By.CLASS_NAME, "left-block"))
-                # product.find_element(By.CLASS_NAME, "left-block").click()
-                # self.switch_to_frame(1)
-
-
-
-
-                # product.find_element(By.XPATH, "//p[id='add_to_cart']/button").click()
-                # product.find_element(By.XPATH, "//div[class='button-container']/span").click()
-                # selected_product_page_t.add_to_cart_m().click()
-                # selected_product_page_t.continue_shopping_m().click()
-
-
-
-
-
-        # my_account_page_t.my_account_search_m().send_keys("hat")
-        # my_account_page_t.my_account_search_enter_m().click()
-        #
-        # search_product_page_t = SearchProductPage(self.driver)
-        # products = search_product_page_t.product_container_m()
-        #
-        # for product in products:
-        #     product_name = product.find_element(By.CLASS_NAME, "product-name").text
-        #     if product_name == " Faded Short Sleeve T-shirts ":
-        #         self.hover_and_click_action(search_product_page_t.product_container_m())
 
 
 
@@ -98,25 +71,6 @@ class TestE2EOrder(BaseClass):
 
 
 
-                # self.hover_action(search_product_page_t.product_container_m())
-                # # self.hover_and_click_action(search_product_page_t.add_to_cart_m())
-                # search_product_page_t.add_to_cart_m().click()
-                # search_product_page_t.continue_shopping_after_cart_m().click()
 
 
 
-
-
-
-
-        # selected_list = ["Faded Short Sleeve T-shirts", "Blouse", "Printed Chiffon Dress"]
-        # for product in products:
-        #     product_name = product.find_element(By.CLASS_NAME, "product-name").text
-        #
-        #     if product_name == "Blouse":
-        #         product.find_element(By.CLASS_NAME, "product-name").click()
-        #         selected_product_page_t = SelectedProductPage(self.driver)
-        #         selected_product_page_t.add_to_cart_m().click()
-        #         search_product_page_t.continue_shopping_after_cart_m().click()
-        #         self.navigate_back()
-        #         break

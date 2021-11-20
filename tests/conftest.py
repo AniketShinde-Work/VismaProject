@@ -9,7 +9,7 @@ def pytest_addoption(parser):
         "--browser_name", action="store", default="chrome"
     )
 
-
+#driver_invocation
 @pytest.fixture(scope="class")
 def setup(request):
     global driver
@@ -23,10 +23,10 @@ def setup(request):
     driver.implicitly_wait(10)
     driver.maximize_window()
     request.cls.driver = driver
-    # yield
-    # driver.close()
+    yield
+    driver.close()
 
-
+#Take Screenshot
 @pytest.mark.hookwrapper
 def pytest_runtest_makereport(item):
     """

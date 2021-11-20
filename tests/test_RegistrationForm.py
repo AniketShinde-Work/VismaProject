@@ -25,7 +25,7 @@ class TestOne(BaseClass):
         home_page_t.sign_in_m().click()
 
         sign_in_page_t = SignInPage(self.driver)
-        sign_in_page_t.email_create_m().send_keys("aniket11111111111111@cmail.com")
+        sign_in_page_t.email_create_m().send_keys("aniket1234fdf32334456@cmail.com")
         log.info("Entering the email address")
         sign_in_page_t.create_an_account_m().click()
         log.info("Clicking on create account")

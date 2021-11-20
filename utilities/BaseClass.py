@@ -50,6 +50,10 @@ class BaseClass:
         else:
             log.error("UnSuccessfully registered")
 
+    def choose_file(self, element):
+
+        self.driver.send_keys(element)
+
     def hover_action(self, locator):
         action = ActionChains(self.driver)
         action.move_to_element(locator).perform()
@@ -68,7 +72,10 @@ class BaseClass:
         self.driver.back()
 
     def checkout_process(self):
+        log = self.getLogger()
+        log.info("Inside Checkout Process")
         shopping_cart_page_t = ShoppingCartPage(self.driver)
+        log.info("Verifying the total amount")
         all_total = shopping_cart_page_t.total_price_elements_m()
         addition_v = 0
         for single_total in all_total:
@@ -87,9 +94,11 @@ class BaseClass:
 
         shipping_product_page_t = ShippingProductPage(self.driver)
         shipping_price = shipping_product_page_t.delivery_price_m().text
+        log.info("Checking the delivery price")
         ship_price = float(shipping_price.lstrip('$'))
         print(ship_price)
         assert ship_price == 2.00
+        log.info("Checking term of service checkbox")
         shipping_product_page_t.term_checkbox_m().click()
         shipping_product_page_t.proceed_to_checkout_m().click()
 
@@ -101,6 +110,8 @@ class BaseClass:
         assert "complete" in order_complete
 
     def adding_product_and_shipping(self):
+        log = self.getLogger()
+        log.info("Verifying the amount with the total amount method")
         shopping_cart_page_t = ShoppingCartPage(self.driver)
         total_product_price_b = shopping_cart_page_t.total_product_price_m().text
         total_product_price_a = float(total_product_price_b.lstrip('$'))
@@ -119,6 +130,9 @@ class BaseClass:
         print(total_product_shipping)
         print(last_total_price_f)
         assert total_product_shipping == last_total_price_f
+
+
+
 
 
 

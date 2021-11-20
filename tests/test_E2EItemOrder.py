@@ -49,26 +49,5 @@ class TestE2EOrder(BaseClass):
                 break
 
         self.checkout_process()
-        # shopping_cart_page_t = ShoppingCartPage(self.driver)
-        # total_amount = shopping_cart_page_t.total_price_m().text
-        # total_amount_float = float(total_amount.lstrip('$'))
-        # total_footer = shopping_cart_page_t.total_product_price_m().text
-        # total_footer_float = float(total_footer.lstrip('$'))
-        #
-        # assert total_amount_float == total_footer_float
-        #
-        # shopping_cart_page_t.proceed_checkout_m().click()
-        #
-        # address_checkout_page_t = AddressCheckOutPage(self.driver)
-        # address_checkout_page_t.proceed_to_checkout_m().click()
-        #
-        # shipping_product_page_t = ShippingProductPage(self.driver)
-        # shipping_product_page_t.term_checkbox_m().click()
-        # shipping_product_page_t.proceed_to_checkout_m().click()
-        #
-        # payment_checkout_page_t = PaymentCheckoutPage(self.driver)
-        # payment_checkout_page_t.pay_by_bank_m().click()
-        # payment_checkout_page_t.confirm_order_m().click()
-        # order_complete = payment_checkout_page_t.last_box_m().text
-        # assert "complete" in order_complete
+
 
