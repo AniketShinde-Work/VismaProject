@@ -1,0 +1,571 @@
+2021-11-19 15:54:37,496 :INFO : test_register_all_details :Entering the email address
+2021-11-19 15:54:37,569 :INFO : test_register_all_details :Clicking on create account
+2021-11-19 15:54:37,569 :INFO : test_register_all_details :Entering the required information to create the account
+2021-11-19 15:54:42,561 :INFO : test_register_all_details :Successfully registered
+2021-11-19 15:59:48,689 :INFO : test_register_all_details :Entering the email address
+2021-11-19 15:59:48,779 :INFO : test_register_all_details :Clicking on create account
+2021-11-19 15:59:48,779 :INFO : test_register_all_details :Entering the required information to create the account
+2021-11-19 15:59:53,144 :INFO : test_register_all_details :Successfully registered
+2021-11-19 16:17:08,509 :INFO : test_register_all_details :Entering the email address
+2021-11-19 16:17:08,589 :INFO : test_register_all_details :Clicking on create account
+2021-11-19 16:17:08,589 :INFO : test_register_all_details :Entering the required information to create the account
+2021-11-19 16:17:13,965 :INFO : test_register_all_details :Successfully registered
+2021-11-19 16:53:29,888 :INFO : test_product_purchase :Entering the email address
+2021-11-19 16:53:29,925 :INFO : test_product_purchase :Entering the password
+2021-11-19 16:54:28,491 :INFO : test_product_purchase :Entering the email address
+2021-11-19 16:54:28,605 :INFO : test_product_purchase :Entering the password
+2021-11-19 17:08:08,194 :INFO : test_product_purchase :Entering the email address
+2021-11-19 17:08:08,287 :INFO : test_product_purchase :Entering the password
+2021-11-19 17:08:19,450 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 17:28:44,292 :INFO : test_product_purchase :Entering the email address
+2021-11-19 17:28:44,392 :INFO : test_product_purchase :Entering the password
+2021-11-19 17:28:55,885 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 17:28:55,928 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 20:49:29,264 :INFO : test_product_purchase :Entering the email address
+2021-11-19 20:49:29,355 :INFO : test_product_purchase :Entering the password
+2021-11-19 20:49:32,778 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 20:49:32,822 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 20:53:52,449 :INFO : test_product_purchase :Entering the email address
+2021-11-19 20:53:52,562 :INFO : test_product_purchase :Entering the password
+2021-11-19 20:53:54,723 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 20:53:54,769 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 20:54:58,074 :INFO : test_product_purchase :Entering the email address
+2021-11-19 20:54:58,160 :INFO : test_product_purchase :Entering the password
+2021-11-19 20:55:00,804 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 20:55:00,843 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:02:17,030 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:02:17,136 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:02:18,542 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:02:18,582 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:03:36,837 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:03:36,948 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:03:38,822 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:03:38,869 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:04:39,882 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:04:39,977 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:04:42,115 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:04:42,152 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:07:47,336 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:07:47,457 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:07:50,856 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:07:50,897 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:13:14,160 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:13:14,260 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:13:16,250 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:13:16,291 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:16:10,107 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:16:10,197 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:16:11,967 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:16:12,012 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:19:34,673 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:19:34,768 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:19:36,147 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:19:36,188 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:22:06,240 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:22:06,341 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:22:08,963 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:22:09,016 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:28:36,494 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:28:36,587 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:28:38,435 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:28:38,494 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:29:40,524 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:29:40,638 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:29:42,713 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:29:42,763 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:33:17,017 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:33:17,113 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:33:19,265 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:33:19,320 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:35:06,151 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:35:06,245 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:35:07,619 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:35:07,668 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:36:26,275 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:36:26,368 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:36:28,194 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:36:28,234 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:38:45,857 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:38:45,947 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:38:47,352 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:38:47,398 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:41:23,606 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:41:23,703 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:41:25,206 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:41:25,251 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 21:42:01,085 :INFO : test_product_purchase :Entering the email address
+2021-11-19 21:42:01,199 :INFO : test_product_purchase :Entering the password
+2021-11-19 21:42:02,580 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 21:42:02,622 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:02:55,463 :INFO : test_product_purchase :Entering the email address
+2021-11-19 22:02:55,552 :INFO : test_product_purchase :Entering the password
+2021-11-19 22:02:57,315 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 22:02:57,359 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:11:58,965 :INFO : test_product_purchase :Entering the email address
+2021-11-19 22:11:59,060 :INFO : test_product_purchase :Entering the password
+2021-11-19 22:12:00,346 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 22:12:00,388 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:13:17,371 :INFO : test_product_purchase :Entering the email address
+2021-11-19 22:13:17,459 :INFO : test_product_purchase :Entering the password
+2021-11-19 22:13:19,203 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 22:13:19,239 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:15:12,749 :INFO : test_product_purchase :Entering the email address
+2021-11-19 22:15:12,836 :INFO : test_product_purchase :Entering the password
+2021-11-19 22:15:14,144 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-19 22:15:14,189 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:29:57,979 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:29:58,074 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:30:01,605 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:30:01,649 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:31:52,068 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:31:52,170 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:31:54,226 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:31:54,269 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:34:02,901 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:34:02,992 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:34:04,693 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:34:04,738 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:36:37,190 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:36:37,279 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:36:38,709 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:36:38,752 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:37:49,845 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:37:49,935 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:37:51,307 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:37:51,353 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:40:33,206 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:40:33,324 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:40:34,829 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:40:34,888 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:45:35,295 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:45:35,387 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:45:36,963 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:45:37,024 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:48:05,283 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:48:05,374 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:48:06,940 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:48:06,986 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:49:44,388 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:49:44,529 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:49:46,618 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:49:46,658 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:52:04,248 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:52:04,339 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:52:05,769 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:52:05,812 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:53:38,733 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:53:38,834 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:53:40,468 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:53:40,515 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:54:57,529 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:54:57,625 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:54:59,742 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:54:59,789 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:57:01,568 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:57:01,698 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:57:03,421 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:57:03,465 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 22:58:59,792 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 22:58:59,892 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 22:59:01,455 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 22:59:01,503 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:02:39,196 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:02:39,288 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:02:40,819 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:02:40,864 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:04:22,257 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:04:22,347 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:04:24,162 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:04:24,200 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:05:21,207 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:05:21,326 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:05:22,735 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:05:22,776 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:07:06,442 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:07:06,534 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:07:08,130 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:07:08,174 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:09:13,090 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:09:13,188 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:09:14,629 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:09:14,682 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:10:31,539 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:10:31,622 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:10:33,102 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:10:33,150 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:11:50,143 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:11:50,245 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:11:51,675 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:11:51,726 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:16:44,396 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:16:44,493 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:16:47,072 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:16:47,115 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:22:48,567 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:22:48,675 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:22:50,637 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:22:50,676 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:53:17,827 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:53:17,917 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:53:19,770 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:53:19,794 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-19 23:57:06,985 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-19 23:57:07,070 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-19 23:57:08,939 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-19 23:57:08,970 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:02:35,525 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:02:35,654 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:02:37,104 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:02:37,129 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:05:26,501 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:05:26,589 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:05:28,315 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:05:28,355 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:09:06,154 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:09:06,243 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:09:07,990 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:09:08,029 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:09:57,249 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:09:57,338 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:09:58,953 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:09:59,005 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:11:44,607 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:11:44,692 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:11:46,490 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:11:46,525 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:13:00,841 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:13:00,948 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:13:02,823 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:13:02,864 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:13:52,551 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:13:52,670 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:13:54,162 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:13:54,192 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:14:47,729 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:14:47,834 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:14:49,283 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:14:49,318 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:15:27,060 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:15:27,162 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:15:28,783 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:15:28,828 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:16:33,316 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:16:33,420 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:16:36,008 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:16:36,038 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:17:27,202 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:17:27,296 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:17:28,983 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:17:29,019 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:19:04,546 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:19:04,650 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:19:06,247 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:19:06,286 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:20:09,506 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:20:09,592 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:20:11,619 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:20:11,659 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:21:08,660 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:21:08,763 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:21:10,594 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:21:10,644 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:22:44,384 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:22:44,473 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:22:47,357 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:22:47,381 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:23:24,163 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 00:23:24,280 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 00:23:25,579 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 00:23:25,619 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:26:26,739 :INFO : test_product_purchase :Entering the email address
+2021-11-20 00:26:26,827 :INFO : test_product_purchase :Entering the password
+2021-11-20 00:26:28,912 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 00:26:28,960 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:28:47,618 :INFO : test_product_purchase :Entering the email address
+2021-11-20 00:28:47,709 :INFO : test_product_purchase :Entering the password
+2021-11-20 00:28:50,775 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 00:28:50,825 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:30:51,290 :INFO : test_product_purchase :Entering the email address
+2021-11-20 00:30:51,377 :INFO : test_product_purchase :Entering the password
+2021-11-20 00:30:52,717 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 00:30:52,748 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:32:08,595 :INFO : test_product_purchase :Entering the email address
+2021-11-20 00:32:08,701 :INFO : test_product_purchase :Entering the password
+2021-11-20 00:32:10,264 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 00:32:10,300 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:34:00,935 :INFO : test_product_purchase :Entering the email address
+2021-11-20 00:34:01,053 :INFO : test_product_purchase :Entering the password
+2021-11-20 00:34:03,308 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 00:34:03,352 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 00:36:13,714 :INFO : test_product_purchase :Entering the email address
+2021-11-20 00:36:13,802 :INFO : test_product_purchase :Entering the password
+2021-11-20 00:36:16,058 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 00:36:16,087 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 07:54:25,475 :INFO : test_product_purchase :Entering the email address
+2021-11-20 07:54:25,586 :INFO : test_product_purchase :Entering the password
+2021-11-20 07:54:30,370 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 07:54:30,393 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 07:56:43,661 :INFO : test_product_purchase :Entering the email address
+2021-11-20 07:56:43,782 :INFO : test_product_purchase :Entering the password
+2021-11-20 07:56:45,489 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 07:56:45,528 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 07:58:27,992 :INFO : test_product_purchase :Entering the email address
+2021-11-20 07:58:28,098 :INFO : test_product_purchase :Entering the password
+2021-11-20 07:58:29,843 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 07:58:29,881 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:02:47,725 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:02:47,815 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:02:56,498 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:02:56,531 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:04:49,027 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:04:49,136 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:04:58,741 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:04:58,758 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:06:07,600 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:06:07,689 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:06:09,338 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:06:09,373 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:10:05,701 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:10:05,830 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:10:07,216 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:10:07,257 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:24:44,903 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:24:45,003 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:24:46,876 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:24:46,916 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:27:32,491 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:27:32,586 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:27:34,206 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:27:34,255 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:31:35,961 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:31:36,069 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:31:37,424 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:31:37,467 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:33:21,942 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:33:22,046 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:33:23,537 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:33:23,580 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:37:09,876 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:37:09,968 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:37:11,957 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:37:12,000 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:38:54,189 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:38:54,291 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:38:56,264 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:38:56,305 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:43:19,524 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:43:19,614 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:43:21,311 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:43:21,355 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:46:01,718 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:46:01,823 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:46:03,735 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:46:03,780 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:53:17,231 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:53:17,323 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:53:20,105 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:53:20,141 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:56:40,218 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:56:40,313 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:56:43,502 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:56:43,535 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 08:58:21,667 :INFO : test_product_purchase :Entering the email address
+2021-11-20 08:58:21,765 :INFO : test_product_purchase :Entering the password
+2021-11-20 08:58:23,237 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 08:58:23,283 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:15:13,298 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:15:13,385 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:15:15,510 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:15:15,554 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:23:57,191 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:23:57,289 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:23:58,620 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:23:58,669 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:26:03,025 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:26:03,116 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:26:04,463 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:26:04,508 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:27:01,486 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:27:01,588 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:27:03,169 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:27:03,210 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:28:52,035 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:28:52,131 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:28:53,509 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:28:53,552 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:32:39,106 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:32:39,203 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:32:42,266 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:32:42,305 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:45:06,237 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:45:06,327 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:45:08,507 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:45:08,551 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:51:45,190 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:51:45,280 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:51:47,107 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:51:47,150 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 09:56:00,129 :INFO : test_product_purchase :Entering the email address
+2021-11-20 09:56:00,221 :INFO : test_product_purchase :Entering the password
+2021-11-20 09:56:01,492 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 09:56:01,533 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:01:29,631 :INFO : test_product_purchase :Entering the email address
+2021-11-20 10:01:29,721 :INFO : test_product_purchase :Entering the password
+2021-11-20 10:01:32,578 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 10:01:32,625 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:14:04,028 :INFO : test_product_purchase :Entering the email address
+2021-11-20 10:14:04,118 :INFO : test_product_purchase :Entering the password
+2021-11-20 10:14:06,241 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 10:14:06,283 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:20:05,548 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:20:05,644 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:20:07,122 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:20:07,168 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:21:05,082 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:21:05,176 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:21:06,940 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:21:06,982 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:24:53,422 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:24:53,517 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:24:55,977 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:24:56,020 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:27:02,844 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:27:02,940 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:27:05,610 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:27:05,653 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:32:17,577 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:32:17,702 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:32:19,541 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:32:19,585 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:33:23,677 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:33:23,768 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:33:25,264 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:33:25,302 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:34:20,356 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:34:20,452 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:34:22,537 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:34:22,578 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:36:05,279 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:36:05,381 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:36:07,695 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:36:07,745 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:43:02,131 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:43:02,226 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:43:03,958 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:43:04,003 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:45:35,942 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:45:36,069 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:45:38,498 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:45:38,559 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:46:52,018 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:46:52,272 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:46:54,146 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:46:54,202 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:49:21,319 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:49:21,411 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:49:22,873 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:49:22,917 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:53:52,155 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:53:52,251 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:53:53,914 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:53:53,961 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 10:55:16,994 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 10:55:17,087 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 10:55:18,849 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 10:55:18,893 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:05:16,917 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:05:17,020 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:05:18,788 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:05:18,834 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:10:37,349 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:10:37,444 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:10:39,365 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:10:39,410 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:12:52,997 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:12:53,086 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:12:54,517 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:12:54,561 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:14:28,353 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:14:28,446 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:14:30,694 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:14:30,736 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:33:00,139 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:33:00,236 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:33:01,874 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:33:01,922 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:35:20,354 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:35:20,451 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:35:22,698 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:35:22,739 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:39:43,351 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:39:43,453 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:39:45,630 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:39:45,662 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:44:09,428 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:44:09,519 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:44:11,508 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:44:11,552 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:46:01,532 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:46:01,627 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:46:05,037 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:46:05,085 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:47:28,272 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:47:28,375 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:47:29,697 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:47:29,737 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:49:49,997 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 11:49:50,091 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 11:49:51,505 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 11:49:51,545 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:51:30,335 :INFO : test_product_purchase :Entering the email address
+2021-11-20 11:51:30,447 :INFO : test_product_purchase :Entering the password
+2021-11-20 11:51:33,633 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 11:51:33,678 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 11:53:22,054 :INFO : test_register_all_details :Entering the email address
+2021-11-20 11:53:22,131 :INFO : test_register_all_details :Clicking on create account
+2021-11-20 11:53:22,131 :INFO : test_register_all_details :Entering the required information to create the account
+2021-11-20 11:53:27,963 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 12:15:10,157 :INFO : test_product_purchase :Entering the email address
+2021-11-20 12:15:10,249 :INFO : test_product_purchase :Entering the password
+2021-11-20 12:15:11,623 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 12:15:11,671 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 12:26:12,178 :INFO : test_product_purchase :Entering the email address
+2021-11-20 12:26:12,288 :INFO : test_product_purchase :Entering the password
+2021-11-20 12:26:14,187 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 12:26:14,228 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 12:36:25,438 :INFO : test_product_purchase :Entering the email address
+2021-11-20 12:36:25,607 :INFO : test_product_purchase :Entering the password
+2021-11-20 12:36:27,394 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 12:36:27,431 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 12:50:44,127 :INFO : test_product_purchase :Entering the email address
+2021-11-20 12:50:44,232 :INFO : test_product_purchase :Entering the password
+2021-11-20 12:50:46,068 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 12:50:46,108 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 12:51:40,491 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 12:51:40,617 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 12:51:43,130 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 12:51:43,170 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 12:58:41,065 :INFO : test_product_purchase :Entering the email address
+2021-11-20 12:58:41,194 :INFO : test_product_purchase :Entering the password
+2021-11-20 12:58:43,172 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 12:58:43,215 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 13:00:55,187 :INFO : test_product_purchase :Entering the email address
+2021-11-20 13:00:55,278 :INFO : test_product_purchase :Entering the password
+2021-11-20 13:00:56,628 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 13:00:56,678 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 13:07:58,664 :INFO : test_product_purchase :Entering the email address
+2021-11-20 13:07:58,757 :INFO : test_product_purchase :Entering the password
+2021-11-20 13:08:00,628 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 13:08:00,662 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 13:09:52,301 :INFO : test_product_purchase :Entering the email address
+2021-11-20 13:09:52,399 :INFO : test_product_purchase :Entering the password
+2021-11-20 13:09:54,102 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 13:09:54,144 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 13:11:01,112 :INFO : test_product_purchase_quick_view :Entering the email address
+2021-11-20 13:11:01,212 :INFO : test_product_purchase_quick_view :Entering the password
+2021-11-20 13:11:03,662 :INFO : test_product_purchase_quick_view :Checking if successfully signed In
+2021-11-20 13:11:03,709 :INFO : check_successfully_my_account_page :Successfully registered
+2021-11-20 13:22:22,807 :INFO : test_product_purchase :Entering the email address
+2021-11-20 13:22:22,904 :INFO : test_product_purchase :Entering the password
+2021-11-20 13:22:24,541 :INFO : test_product_purchase :Checking if successfully signed In
+2021-11-20 13:22:24,571 :INFO : check_successfully_my_account_page :Successfully registered
